@@ -1,6 +1,7 @@
 .idea
 .env
 geckodriver.log
+geckodriver.exe
 *.sqlite3
 __pycache__
 *.pyc
